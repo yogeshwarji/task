@@ -52,16 +52,3 @@ class TestCompanyInfoLI:
             print(company_info)
             xlutls.writeData(path, "Sheet1", r, 3, company_info)
             time.sleep(5)
-
-
-
-
-
-
-
-
-
-
-
-
-
